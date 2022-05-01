@@ -1,0 +1,10 @@
+#Overview
+
+The purpose of this analysis is to observe temperatures for June and December to see if running a surf shop issustainable all year. 
+We ran two separate queries, one for June and the other for December. 
+
+#Results
+
+In the month of June there was a total count of 1700, mean of 74.9, min of 64.0 and a max temperature of 86.0
+For the month of Decembe we had a total count of 1517, mean of 71.0, min of 56.0, and a max of 83.0. The standard
+eviation is 3.25 in June and 3.75, showing a .5 difference between the two. 
